@@ -27,10 +27,3 @@ This project analyzes startup funding data in India to extract meaningful insigh
 - Jupyter Notebook
 - Excel for dataset formatting
 
-## 🔍 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Startup-Funding-Analysis.git
-##
-   cd Startup-Funding-Analysis
